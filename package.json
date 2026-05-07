@@ -1,0 +1,17 @@
+{
+  "name": "com.shapemaster.3dto2d",
+  "version": "1.0.0",
+  "displayName": "3D to 2D Converter",
+  "description": "Professional tool to convert 3D FBX animations into 2D Sprite Sheets with auto-material mapping and optimized rendering.",
+  "unity": "2021.3",
+  "author": {
+    "name": "Shapemaster"
+  },
+  "keywords": [
+    "3d",
+    "2d",
+    "converter",
+    "sprite",
+    "animation"
+  ]
+}
